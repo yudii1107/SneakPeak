@@ -1,4 +1,4 @@
-# 👟 SneakPeak — Sneaker E-Commerce Website
+<img width="1831" height="875" alt="Screenshot 2026-11-03 120457" src="https://github.com/user-attachments/assets/be8a2d51-f954-4658-9cd0-f596e764bf03" /># 👟 SneakPeak — Sneaker E-Commerce Website
 
 A full-stack sneaker e-commerce web application developed as part of a MERN Stack training program.
 
@@ -14,7 +14,14 @@ SneakPeak is designed to provide users with a convenient online sneaker-shopping
 Add your actual website screenshots here.
 
 Recommended screenshots:
-- Homepage
+<img width="1880" height="1062" alt="Screenshot 2026-11-25 201815" src="https://github.com/user-attachments/assets/8c6e7a73-eccd-4cf3-954c-c1265288ca24" />
+<img width="1831" height="875" alt="Screenshot 2026-11-03 120457" src="https://github.com/user-attachments/assets/782b91ed-4aed-4884-ab0e-567b7a3d5d0c" />
+<img width="1868" height="878" alt="Screenshot 2026-11-03 120521" src="https://github.com/user-attachments/assets/812f6d52-ae4c-47e5-9f6c-d0a7fa89ea66" />
+<img width="1888" height="888" alt="Screenshot 2026-11-03 115632" src="https://github.com/user-attachments/assets/0fedf506-d2e8-4ac6-8b4a-6d044f2a01da" />
+<img width="1863" height="882" alt="Screenshot 2026-11-03 115704" src="https://github.com/user-attachments/assets/df50375b-d406-476b-9957-7629679e7a26" />
+<img width="1892" height="881" alt="Screenshot 2026-11-03 115836" src="https://github.com/user-attachments/assets/802aa932-c14d-4cb5-9185-e6b9639f1d11" />
+<img width="1872" height="891" alt="Screenshot 2026-11-03 115855" src="https://github.com/user-attachments/assets/dc92f0fd-17d4-4f00-ac36-2de0eb23510f" />
+
 - Registration and Login
 - Sneaker Shop
 - Wishlist

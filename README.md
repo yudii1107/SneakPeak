@@ -205,10 +205,6 @@ Possible improvements for future versions include:
 - Enhanced order tracking
 - Additional security and performance improvements
 
-## 📄 License
-
-This project was developed for educational and learning purposes.
-
 ---
 
 **Developed as part of a MERN Stack training project.**

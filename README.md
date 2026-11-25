@@ -14,13 +14,21 @@ SneakPeak is designed to provide users with a convenient online sneaker-shopping
 Add your actual website screenshots here.
 
 Recommended screenshots:
-<img width="1880" height="1062" alt="Screenshot 2026-11-25 201815" src="https://github.com/user-attachments/assets/8c6e7a73-eccd-4cf3-954c-c1265288ca24" />
-<img width="1831" height="875" alt="Screenshot 2026-11-03 120457" src="https://github.com/user-attachments/assets/782b91ed-4aed-4884-ab0e-567b7a3d5d0c" />
-<img width="1868" height="878" alt="Screenshot 2026-11-03 120521" src="https://github.com/user-attachments/assets/812f6d52-ae4c-47e5-9f6c-d0a7fa89ea66" />
-<img width="1888" height="888" alt="Screenshot 2026-11-03 115632" src="https://github.com/user-attachments/assets/0fedf506-d2e8-4ac6-8b4a-6d044f2a01da" />
-<img width="1863" height="882" alt="Screenshot 2026-11-03 115704" src="https://github.com/user-attachments/assets/df50375b-d406-476b-9957-7629679e7a26" />
-<img width="1892" height="881" alt="Screenshot 2026-11-03 115836" src="https://github.com/user-attachments/assets/802aa932-c14d-4cb5-9185-e6b9639f1d11" />
-<img width="1872" height="891" alt="Screenshot 2026-11-03 115855" src="https://github.com/user-attachments/assets/dc92f0fd-17d4-4f00-ac36-2de0eb23510f" />
+<img width="1830" height="868" alt="Screenshot 2026-11-03 120440" src="https://github.com/user-attachments/assets/bb60e270-05e9-4101-92c0-68645f576548" />
+<img width="1831" height="875" alt="Screenshot 2026-11-03 120457" src="https://github.com/user-attachments/assets/6115759b-61e5-4576-8149-7715e41d3b85" />
+<img width="1868" height="878" alt="Screenshot 2026-11-03 120521" src="https://github.com/user-attachments/assets/2d2087a1-bceb-4e52-a83e-a15a82dc4b8f" />
+<img width="1853" height="877" alt="Screenshot 2026-11-03 120556" src="https://github.com/user-attachments/assets/754967d3-f08f-41f2-8f7b-6b45a51687b6" />
+<img width="1812" height="891" alt="Screenshot 2026-11-03 120609" src="https://github.com/user-attachments/assets/326274f3-a9bb-40b4-ace7-9292da8c3dcb" />
+<img width="1832" height="885" alt="Screenshot 2026-11-03 120703" src="https://github.com/user-attachments/assets/5de5ff66-85a8-48ce-93e7-143be28e5d79" />
+<img width="1821" height="893" alt="Screenshot 2026-11-03 120728" src="https://github.com/user-attachments/assets/2399f838-a636-42ca-91df-1c079dfc7a33" />
+<img width="1805" height="842" alt="Screenshot 2026-11-03 120647" src="https://github.com/user-attachments/assets/9b95405c-839f-45fe-92df-3d9ce9a09e83" />
+<img width="1866" height="877" alt="Screenshot 2026-11-03 120908" src="https://github.com/user-attachments/assets/b689a537-2e4a-4ee2-8f9d-ad9fabd1f8a2" />
+<img width="1860" height="877" alt="Screenshot 2026-11-03 120927" src="https://github.com/user-attachments/assets/75f77ada-38d1-4225-913a-57c461292860" />
+![Uploading Screenshot 2026-11-03 120959.png…]()
+![Uploading Screenshot 2026-11-03 120942.png…]()
+![Uploading Screenshot 2026-11-03 120959.png…]()
+<img width="1857" height="872" alt="Screenshot 2026-11-03 121013" src="https://github.com/user-attachments/assets/103fbae0-38c4-4042-beb1-d92227756703" />
+![Uploading Screenshot 2026-11-03 121013.png…]()
 
 - Registration and Login
 - Sneaker Shop

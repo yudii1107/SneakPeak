@@ -1,4 +1,4 @@
-<img width="1831" height="875" alt="Screenshot 2026-11-03 120457" src="https://github.com/user-attachments/assets/be8a2d51-f954-4658-9cd0-f596e764bf03" /># 👟 SneakPeak — Sneaker E-Commerce Website
+# 👟 SneakPeak — Sneaker E-Commerce Website
 
 A full-stack sneaker e-commerce web application developed as part of a MERN Stack training program.
 
